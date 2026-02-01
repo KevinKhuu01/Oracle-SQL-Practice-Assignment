@@ -1,4 +1,5 @@
-Oracle SQL Practice - Airline Database - COMP122 Database Management Final Assignment (Group Project)
+<h2>Oracle SQL Practice - Airline Database</h2>
+COMP122 Database Management Final Assignment (Group Project)
 
 This project is an Oracle SQL database built to simulate an Airline's internal system.
 
