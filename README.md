@@ -3,7 +3,6 @@ COMP122 Database Management Final Assignment (Group Project)
 
 This project is an Oracle SQL database built to simulate an Airline's internal system.
 
-<br>
 🛠️ Stack<br>
 - Language: Oracle SQL<br>
 - IDE: SQL Developer<br>
