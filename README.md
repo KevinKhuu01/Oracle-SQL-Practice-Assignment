@@ -19,5 +19,5 @@ This project is an Oracle SQL database built to simulate an Airline's internal s
 This project was completed as a collaborative assignment with 1 other group mates for a database management course.
 
 <br>
-ERD Diagram:
+ERD Diagram:<br>
 <img width="1286" height="803" alt="image" src="https://github.com/user-attachments/assets/c74a7dcc-e7b0-4dcb-b09f-fda9bd846792" />
