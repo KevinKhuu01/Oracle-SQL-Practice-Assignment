@@ -7,7 +7,6 @@ This project is an Oracle SQL database built to simulate an Airline's internal s
 - Language: Oracle SQL<br>
 - IDE: SQL Developer<br>
 
-<br>
 🧠 Concepts<br>
 - SQL DDL (table creation, constraints)<br>
 - SQL DML (SELECT, INSERT, UPDATE, DELETE)<br>
