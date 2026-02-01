@@ -3,16 +3,16 @@ Oracle SQL Practice - Airline Database - COMP122 Database Management Final Assig
 This project is an Oracle SQL database built to simulate an Airline's internal system.
 
 <br>
-🛠️ Stack
-- Language: Oracle SQL
-- IDE: SQL Developer
+🛠️ Stack<br>
+- Language: Oracle SQL<br>
+- IDE: SQL Developer<br>
 
 <br>
-🧠 Concepts
-- SQL DDL (table creation, constraints)
-- SQL DML (SELECT, INSERT, UPDATE, DELETE)
-- Joins, subqueries, aggregations, and advanced query patterns
-- Oracle-specific SQL features and syntax
+🧠 Concepts<br>
+- SQL DDL (table creation, constraints)<br>
+- SQL DML (SELECT, INSERT, UPDATE, DELETE)<br>
+- Joins, subqueries, aggregations, and advanced query patterns<br>
+- Oracle-specific SQL features and syntax<br>
 
 <br>
 📝 Notes<br>
